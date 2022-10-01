@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  
+
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.place-half{
+    margin-top: 10%;
+}
+
+.container{
+  background-color: whitesmoke
+}
+
+
+.card-style{
+    background-color:rgba(240, 204, 204, 0.781);
+}
+
+.button-style{
+    background-color:rgb(214, 216, 197)
+} 
+
+.button-m-style{
+  background-color:rgba(167, 167, 204, 0.547); 
+}
